@@ -1,0 +1,5 @@
+comment = 'vector_search:  Created by pgx'
+default_version = '@CARGO_VERSION@'
+module_pathname = '$libdir/vector_search'
+relocatable = false
+superuser = false
